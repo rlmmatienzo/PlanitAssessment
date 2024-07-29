@@ -17,7 +17,7 @@ on:
 jobs:
   build:
 
-    runs-on: '["self-hosted", "npr-common-4gb"]'
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4

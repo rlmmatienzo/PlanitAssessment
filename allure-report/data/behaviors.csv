@@ -1,0 +1,4 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Planit Test Automation Assessment Scenarios","Validate successful submission message","0","0","5","0","0"
+"","Planit Test Automation Assessment Scenarios","Validate error messages and validate error messages gone after populating mandatory fields","0","0","1","0","0"
+"","Planit Test Automation Assessment Scenarios","Validate prices for the given products","0","0","1","0","0"

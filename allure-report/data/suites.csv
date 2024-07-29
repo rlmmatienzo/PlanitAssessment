@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jul 29 12:52:03 PST 2024","Mon Jul 29 12:52:13 PST 2024","10074","","Planit Test Automation Assessment Scenarios","","Validate successful submission message","","Validate successful submission message",""
+"passed","Mon Jul 29 12:51:43 PST 2024","Mon Jul 29 12:52:03 PST 2024","20567","","Planit Test Automation Assessment Scenarios","","Validate error messages and validate error messages gone after populating mandatory fields","","Validate error messages and validate error messages gone after populating mandatory fields",""
+"passed","Mon Jul 29 12:55:40 PST 2024","Mon Jul 29 12:55:58 PST 2024","18736","","Planit Test Automation Assessment Scenarios","","Validate prices for the given products","","Validate prices for the given products",""
+"passed","Mon Jul 29 12:53:06 PST 2024","Mon Jul 29 12:53:28 PST 2024","22732","","Planit Test Automation Assessment Scenarios","","Validate successful submission message","","Validate successful submission message",""
+"passed","Mon Jul 29 12:52:55 PST 2024","Mon Jul 29 12:53:06 PST 2024","10511","","Planit Test Automation Assessment Scenarios","","Validate successful submission message","","Validate successful submission message",""
+"passed","Mon Jul 29 12:52:34 PST 2024","Mon Jul 29 12:52:55 PST 2024","20936","","Planit Test Automation Assessment Scenarios","","Validate successful submission message","","Validate successful submission message",""
+"passed","Mon Jul 29 12:52:13 PST 2024","Mon Jul 29 12:52:34 PST 2024","20793","","Planit Test Automation Assessment Scenarios","","Validate successful submission message","","Validate successful submission message",""

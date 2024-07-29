@@ -1,0 +1,114 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Validate error messages and validate error messages gone after populating mandatory fields",
+        "description": "",
+        "id": "planit-test-automation-assessment-scenarios;validate-error-messages-and-validate-error-messages-gone-after-populating-mandatory-fields",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "comments": [
+              {
+                "line": 5,
+                "value": "#Given user navigates to homepage"
+              }
+            ],
+            "line": 6,
+            "name": "user clicks \"contact\" menu button",
+            "match": {},
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 7,
+            "value": "#Then user ends the session"
+          }
+        ],
+        "line": 10,
+        "name": "Validate successful submission message",
+        "description": "",
+        "id": "planit-test-automation-assessment-scenarios;validate-successful-submission-message",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "user navigates to homepage",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "user clicks \"contact\" menu button",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "user clicks \"forename\" textbox field",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 14,
+            "value": "#And user inputs \"Ralph\" in \"forename\" field"
+          }
+        ],
+        "line": 17,
+        "name": "Validate prices for the given products",
+        "description": "",
+        "id": "planit-test-automation-assessment-scenarios;validate-prices-for-the-given-products",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 18,
+            "name": "user navigates to homepage",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 19,
+            "name": "user clicks \"Start Shopping\" menu button",
+            "match": {},
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Planit Test Automation Assessment Scenarios",
+    "description": "",
+    "id": "planit-test-automation-assessment-scenarios",
+    "keyword": "Feature",
+    "uri": "Scenarios.feature"
+  }
+]

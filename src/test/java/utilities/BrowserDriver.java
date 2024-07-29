@@ -19,7 +19,7 @@ public class BrowserDriver {
         options = new ChromeOptions();
         options.addArguments("--remote-allow-origins=*");
         System.setProperty("webdriver.http.factory", "jdk-http-client");
-        System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver/chromedriver.exe");
         this.driver = new ChromeDriver();
         System.out.println("Launching google chrome....");
         this.driver.manage().window().maximize();

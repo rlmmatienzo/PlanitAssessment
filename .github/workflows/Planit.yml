@@ -27,15 +27,6 @@ jobs:
         java-version: '11'
         distribution: 'temurin'
         cache: maven
-        testRunType: "cloud"
-        browser: "chrome"
-        browserVersion: "any"
-        retryCount: 0
-        healthCheckLabel: ""
-        abortOnFailure: "false"
-        threadCount: 1
-        installChromeDriver: true
-        installChromeBrowser: true
     - name: Build with Maven
       run: mvn -B package --file pom.xml
 
